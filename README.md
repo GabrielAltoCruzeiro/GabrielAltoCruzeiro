@@ -17,7 +17,7 @@
 
 ### 🛠️ Tecnologias que utilizo
 
-<div align="left" Style = "gap:30px">
+<div align="left" Style ="gap:30px">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height="50" alt="python logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium" height="50" alt="Selenium logo"/>
