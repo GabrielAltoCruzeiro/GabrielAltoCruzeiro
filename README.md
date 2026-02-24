@@ -45,7 +45,7 @@
     /></a>
   
    <a
-          href="https://gmail.google.com/mail/u/0/?pli=1#inbox?=ZtjgtGNHWgBWXWbCGRxTkwpKxvhZXfSMsBDvFVqfKdRJNQHFhGjhvrJwQNkdCNXKXkjkWlRXZrKlHPSKkspRVgZJfCkbHSDHLzsfjTkTnMkghplNbbCDLsJHWnHRgLlCmgqklDSLpzJDjHbKGvhhcxV"
+          href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJlFCjWnFBrcmVpHwVQNZDmHbzxszLrrkDlJVGnKsdKkGtjLLVXGPlrPSjPxFcMTCZxPXnB"
       ><img
       src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
       height="35"
