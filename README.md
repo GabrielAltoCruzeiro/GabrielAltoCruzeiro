@@ -37,7 +37,7 @@
 <div align="left">
 
 <a href="https://www.instagram.com/gabrielalto_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35"/>
+  <img src="https://v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35"/>
 </a>
 
 <a href="https://www.linkedin.com/in/gabrielalto-165182304/">
