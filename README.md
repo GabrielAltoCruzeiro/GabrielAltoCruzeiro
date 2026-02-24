@@ -4,15 +4,11 @@
 
 ###
 <p align="center">
-  Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Tenho
-  experiência em diversas linguagens de programação, incluindo JavaScript,
-  TypeScript, React, HTML5, CSS3, Python e C#. Estou sempre buscando aprender
-  novas tecnologias e aprimorar minhas habilidades para criar soluções
-  eficientes e inovadoras.
+  
 </p>
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" src="img git.png" />
 
 ###
 
@@ -46,7 +42,7 @@
 
 ###
 
-<div align="left">
+<div align="left" style="display: flex;">
   <a
     href="https://www.instagram.com/gabrielalto_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
     ><img
