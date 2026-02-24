@@ -11,7 +11,7 @@
 🎓 Ciências da Computação (5/8)  
 💻 Focado em Automação de Processos (RPA) com Python  
 🔧 Desenvolvimento Back-end  
-📈 Construindo projetos práticos para evoluir constantemente  
+
 
 ---
 
@@ -20,20 +20,13 @@
 <div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"/>
-<img height="13"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="50" alt="Selenium logo"/>
-<img height="13"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-line-wordmark.svg" height="50" alt="Pandas logo"/>
-<img height="13"/>
-<img src="https://raw.githubusercontent.com/sempostma/office365-icons/4ef2ee3dc5705f4ab23bc5fc7f236884d0bc10f3/svg/excel.svg" height="35" alt="Pandas logo"/>
-
+<img src="https://raw.githubusercontent.com/sempostma/office365-icons/4ef2ee3dc5705f4ab23bc5fc7f236884d0bc10f3/svg/excel.svg" height="50" alt="Excel logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="git logo"/>
-<img height="13"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java logo"/>
-<img height="13"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="50" alt="css3 logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"/>
-
-
 
 </div>
 
