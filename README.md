@@ -44,13 +44,14 @@
         alt="instagram logo"
     /></a>
   
-    <a
-      href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=ZtjgtGNHWgBWXWbCGRxTkwpKxvhZXfSMsBDvFVqfKdRJNQHFhGjhvrJwQNkdCNXKXkjkWlRXZrKlHPSKkspRVgZJfCkbHSDHLzsfjTkTnMkghplNbbCDLsJHWnHRgLlCmgqklDSLpzJDjHbKGvhhcxV"
+   <a
+          href="https://gmail.google.com/mail/u/0/?pli=1#inbox?=ZtjgtGNHWgBWXWbCGRxTkwpKxvhZXfSMsBDvFVqfKdRJNQHFhGjhvrJwQNkdCNXKXkjkWlRXZrKlHPSKkspRVgZJfCkbHSDHLzsfjTkTnMkghplNbbCDLsJHWnHRgLlCmgqklDSLpzJDjHbKGvhhcxV"
       ><img
       src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
       height="35"
-      alt="gmail logo"
-    /></a>
+      alt="gmail logo" 
+    /></a> 
+    
    <a href="https://www.linkedin.com/in/gabrielalto-165182304/"><img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
       height="35"
